@@ -1,0 +1,32 @@
+<!doctype html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>Análisis WhatsApp - Subir chat</title>
+  <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+</head>
+<body>
+  <div class="container">
+    <h1>Análisis de chats de WhatsApp</h1>
+    <p>Sube el archivo exportado del chat (.txt)</p>
+
+    {% with messages = get_flashed_messages() %}
+      {% if messages %}
+        <ul class="flashes">
+          {% for m in messages %}
+            <li>{{ m }}</li>
+          {% endfor %}
+        </ul>
+      {% endif %}
+    {% endwith %}
+
+    <form method="post" action="{{ url_for('upload_file') }}" enctype="multipart/form-data">
+      <input type="file" name="chatfile" accept=".txt" required>
+      <button type="submit">Subir y analizar</button>
+    </form>
+
+    <hr>
+    <p>Instrucciones: Exporta el chat desde WhatsApp (sin medios) y sube el .txt.</p>
+  </div>
+</body>
+</html>

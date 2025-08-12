@@ -1,0 +1,78 @@
+<!doctype html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>Resultados - Análisis</title>
+  <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+</head>
+<body>
+  <div class="container">
+    <h1>Resultados del análisis</h1>
+
+    <h2>Conteo de mensajes por autor (top)</h2>
+    <pre>{{ author_counts_str }}</pre>
+
+    <h2>Gráficas de análisis</h2>
+    {% if charts.author_counts %}
+      <h3>Mensajes por autor</h3>
+      <img src="{{ url_for('output_file', fname=charts.author_counts) }}" style="max-width:100%;">
+    {% endif %}
+
+    {% if charts.weekday %}
+      <h3>Actividad por día de la semana</h3>
+      <img src="{{ url_for('output_file', fname=charts.weekday) }}" style="max-width:100%;">
+    {% endif %}
+
+    {% if charts.emojis %}
+      <h3>Emojis más usados</h3>
+      <img src="{{ url_for('output_file', fname=charts.emojis) }}" style="max-width:400px;">
+      <pre>{{ emoji_summary }}</pre>
+    {% endif %}
+
+    {% if charts.media %}
+      <h3>Mensajes multimedia por miembro (top 10)</h3>
+      <img src="{{ url_for('output_file', fname=charts.media) }}" style="max-width:100%;">
+    {% endif %}
+
+    {% if charts.dates %}
+      <h3>Fechas de mayor actividad</h3>
+      <img src="{{ url_for('output_file', fname=charts.dates) }}" style="max-width:100%;">
+    {% endif %}
+
+    {% if charts.year %}
+      <h3>Mensajes por año</h3>
+      <img src="{{ url_for('output_file', fname=charts.year) }}" style="max-width:400px;">
+    {% endif %}
+
+    {% if charts.month %}
+      <h3>Mensajes por mes</h3>
+      <img src="{{ url_for('output_file', fname=charts.month) }}" style="max-width:100%;">
+    {% endif %}
+
+    {% if charts.hours %}
+      <h3>Horas de mayor actividad</h3>
+      <img src="{{ url_for('output_file', fname=charts.hours) }}" style="max-width:100%;">
+    {% endif %}
+
+    <h2>Últimos 50 mensajes por autor</h2>
+    {% for autor, rows in last50_by_author.items() %}
+      <h3>{{ autor }}</h3>
+      <table border="1" style="width:100%; border-collapse:collapse;">
+        <thead><tr><th>Date</th><th>Time</th><th>Author</th><th>Message</th></tr></thead>
+        <tbody>
+        {% for r in rows %}
+          <tr>
+            <td>{{ r['Date'] }}</td>
+            <td>{{ r['Time'] }}</td>
+            <td>{{ r['Author'] }}</td>
+            <td style="white-space:pre-wrap;">{{ r['Message'] }}</td>
+          </tr>
+        {% endfor %}
+        </tbody>
+      </table>
+    {% endfor %}
+
+    <p><a href="{{ url_for('index') }}">Volver</a></p>
+  </div>
+</body>
+</html>

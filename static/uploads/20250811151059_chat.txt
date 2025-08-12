@@ -1,0 +1,350 @@
+30/6/2025 9:00 p. m. - Los mensajes y las llamadas están cifrados de extremo a extremo. Solo las personas en este chat pueden leerlos, escucharlos o compartirlos. Obtén más información.
+30/6/2025 8:57 p. m. - ‎~ Kat creó el grupo "Grupo 5 aplicación sistema operativo".
+30/6/2025 9:00 p. m. - Te uniste mediante el enlace de invitación de este grupo.
+30/6/2025 9:32 p. m. - ‎Veronica Yampueza se unió usando el enlace de invitación de este grupo
+1/7/2025 6:49 p. m. - +593 98 295 3878: Hola compañeros
+1/7/2025 6:49 p. m. - +593 98 295 3878: Cuando se pueden unir para ver lo de la expo y nuestro tema ?
+1/7/2025 6:50 p. m. - +593 98 786 9225: Buenas noches compañeros, por mi sería hoy no tengo problema después de clases
+1/7/2025 6:50 p. m. - +593 98 295 3878: Listo, tipo 9:30 o 10 para que estemos todos ?
+1/7/2025 6:51 p. m. - +593 97 883 4901: Claro
+1/7/2025 6:51 p. m. - +593 97 883 4901: Hoy
+1/7/2025 6:51 p. m. - +593 97 883 4901: Para verle
+1/7/2025 6:52 p. m. - Verito : Buenas noches compañeros y no vamos a demorar mucho? es que también tengo que reunirme con otro grupo para otro deber que tengo
+1/7/2025 6:52 p. m. - +593 98 295 3878: Depende de lo que tengamos que ver creo yo
+1/7/2025 6:52 p. m. - +593 98 295 3878: Pero unos 30 max creo
+1/7/2025 6:52 p. m. - +593 98 295 3878: No nos demoramos
+1/7/2025 6:53 p. m. - Verito : Bueno
+1/7/2025 6:54 p. m. - +593 98 786 9225: Listo compañeros de mi parte no problem
+1/7/2025 6:54 p. m. - Verito : Podria ser las 9 pra poderle decirle a mi otro grupo reunirme 9:30
+2/7/2025 10:00 a. m. - +593 98 786 9225: Compañeros buenos días, será que hoy si nos reunimos ?
+2/7/2025 10:03 a. m. - +593 98 295 3878: claro, a que hora ?
+2/7/2025 10:15 a. m. - +593 98 786 9225: En la noche me supongo para que puedan estar todos
+2/7/2025 8:13 p. m. - +593 97 883 4901: ‎PTT-20250702-WA0072.opus (archivo adjunto)
+2/7/2025 8:18 p. m. - +593 97 883 4901: ‎STK-20250612-WA0083.webp (archivo adjunto)
+2/7/2025 8:22 p. m. - Veronica Yampueza: Buenas noches compañeros si porfavor para seguirnos organizando y que no se nos acumule
+2/7/2025 8:23 p. m. - +593 97 883 4901: ‎PTT-20250702-WA0073.opus (archivo adjunto)
+2/7/2025 8:24 p. m. - +593 97 883 4901: <Multimedia omitido>
+2/7/2025 8:24 p. m. - +593 97 883 4901: Esto tenemos que investigar
+2/7/2025 8:29 p. m. - +593 98 786 9225: Buenas noches, de mi parte a las 9:15pm en adelante  estaría bien
+2/7/2025 8:29 p. m. - +593 97 883 4901: ‎PTT-20250702-WA0075.opus (archivo adjunto)
+2/7/2025 8:29 p. m. - Veronica Yampueza: si pueden para reunirnos un ratito mas noche
+2/7/2025 8:30 p. m. - +593 97 883 4901: Les parece a las 9:15
+2/7/2025 8:30 p. m. - +593 97 883 4901: ‎STK-20250612-WA0083.webp (archivo adjunto)
+2/7/2025 8:30 p. m. - +593 97 883 4901: Para mandar el link
+2/7/2025 8:30 p. m. - +593 98 786 9225: De mi parte no problem
+2/7/2025 8:30 p. m. - Veronica Yampueza: porque para la exposicion tenemos que todos realizarla  y si o estoy mal todos exponemos cada parte
+2/7/2025 8:31 p. m. - +593 97 883 4901: Necesitamos que todos respondan
+2/7/2025 8:31 p. m. - Veronica Yampueza: si compañera porfavor nos coparte y nos reunimos
+2/7/2025 9:14 p. m. - +593 97 883 4901: https://meet.google.com/sfk-mmqv-kao?authuser=0
+2/7/2025 9:14 p. m. - +593 97 883 4901: aqui esta el link
+2/7/2025 9:16 p. m. - +593 97 883 4901: falta dos
+2/7/2025 9:18 p. m. - +593 97 883 4901: chicos los que falta
+2/7/2025 9:18 p. m. - +593 98 786 9225: Hasta eso avancemos
+2/7/2025 9:28 p. m. - +593 98 295 3878: 👤 Persona 1:
+Tema: Introducción + Principios Básicos de Seguridad
+Contenido:
+
+¿Qué es la seguridad en sistemas operativos?
+
+Importancia de proteger servicios críticos
+
+Triada CIA (Confidencialidad, Integridad, Disponibilidad)
+
+Imagen: Figura de la Triada CIA
+
+👤 Persona 2:
+Tema: Arquitecturas de Seguridad
+Contenido:
+
+Controles de acceso
+
+Políticas de seguridad
+
+Segregación de privilegios
+
+Diagrama de arquitectura de seguridad (Figura 2)
+
+👤 Persona 3:
+Tema: Gestión de Usuarios + Control de Acceso
+Contenido:
+
+Modelos de acceso: DAC, MAC, RBAC
+
+Imagen: Comparación de modelos (Figura 3)
+
+👤 Persona 4:
+Tema: Cifrados y Protocolos de Seguridad
+Contenido:
+
+SSL/TLS y SSH
+
+Certificados digitales
+
+Protocolos de autenticación: Kerberos, OAuth
+
+Imagen: Proceso de cifrado SSL/TLS (Figura 4)
+
+👤 Persona 5:
+Tema: Tipos de Seguridad en Sistemas Operativos
+Contenido:
+
+Seguridad física
+
+Autenticación
+
+Control de acceso
+
+Protección contra malware
+
+Cifrado de datos
+
+Seguridad de red
+4/7/2025 6:53 a. m. - +593 98 786 9225: Compañeros buenos días, hoy en la noche ya subo el archivo compartdo por favor
+4/7/2025 10:43 p. m. - +593 98 786 9225: https://www.canva.com/design/DAGsQb_G4q4/ZGfX-nBzXv0RxtZV3ncGKQ/edit?utm_content=DAGsQb_G4q4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+4/7/2025 10:44 p. m. - +593 98 786 9225: compañeros buenas noches, les envio el link del canva, si algo esta mal o falta me lo hacen saber por favor gracias, buenas noches
+4/7/2025 10:49 p. m. - +593 98 295 3878: Quien anotó los puntos en los que quedamos cada uno ?
+4/7/2025 10:50 p. m. - +593 98 786 9225: Esto ??
+4/7/2025 10:50 p. m. - +593 98 295 3878: De ley a quien nos toco cada punto 🤧
+4/7/2025 10:51 p. m. - +593 98 786 9225: Tu mismo anotaste
+4/7/2025 10:51 p. m. - +593 98 786 9225: Te toco el punto dos
+4/7/2025 10:51 p. m. - +593 98 295 3878: No pues yo estaba con la ruleta :v
+4/7/2025 10:51 p. m. - +593 98 295 3878: Gracias, no me acordaba
+4/7/2025 10:52 p. m. - +593 98 295 3878: Hasta cuándo podemos subir nuestras partes ?
+4/7/2025 10:52 p. m. - +593 98 786 9225: Tenemos hasta la próxima semana
+4/7/2025 10:52 p. m. - +593 98 786 9225: No hay problema en estos días pueden hacerlo
+4/7/2025 10:52 p. m. - +593 98 786 9225: Por lo que tenemos otras actividades yo hice ahorita
+4/7/2025 11:08 p. m. - +593 98 295 3878: De una, igual para hacerle rapidito entonces
+10/7/2025 8:12 a. m. - +593 97 883 4901: Buenos días
+10/7/2025 8:12 a. m. - +593 97 883 4901: Irán poniendo sus partes
+10/7/2025 8:12 a. m. - +593 97 883 4901: Por favor mañana te menos la presentación
+10/7/2025 8:12 a. m. - +593 97 883 4901: Ya hice mi parte si falta algo o hay que modificar me avisan por favor
+11/7/2025 6:50 p. m. - +593 98 786 9225: Compas buenas noches
+11/7/2025 6:51 p. m. - +593 98 786 9225: <Multimedia omitido>
+11/7/2025 6:51 p. m. - +593 98 786 9225: Mateo David Viracucha Armijos
+11/7/2025 6:51 p. m. - +593 98 786 9225: La parte del compañero que no va a poder asistir a clases
+11/7/2025 6:51 p. m. - +593 98 786 9225: Ya les envio mi parte de la grabación por favor
+11/7/2025 6:52 p. m. - Verito : Compañeros yo también les envió mi partee de mi video no puedo asistir me encuentro en el trabajo aun
+11/7/2025 7:02 p. m. - Verito : ‎VID-20250711-WA0021.mp4 (archivo adjunto)
+11/7/2025 7:03 p. m. - +593 98 786 9225: Compañeros por favor si le pueden pedir al ING para exponer al último nuestro grupo, estoy en el trabajo me van a enviar mi vídeo para enviarles por favor
+11/7/2025 7:07 p. m. - +593 97 883 4901: No saben si ya dejó ingresar
+11/7/2025 7:07 p. m. - +593 97 883 4901: ‎STK-20250711-WA0022.webp (archivo adjunto)
+11/7/2025 7:12 p. m. - +593 97 883 4901: quien va a presentar la pantalla
+11/7/2025 7:12 p. m. - +593 97 883 4901: esta exponiendo el grupo 4
+11/7/2025 7:15 p. m. - +593 97 883 4901: 🧐
+11/7/2025 7:15 p. m. - +593 97 883 4901: digannnn
+11/7/2025 7:15 p. m. - Veronica Yampueza: buenas noches compañeros
+11/7/2025 7:15 p. m. - Veronica Yampueza: ud porfavor
+11/7/2025 7:16 p. m. - Veronica Yampueza: ya nos toca
+11/7/2025 7:18 p. m. - Veronica Yampueza: cual es el orden ? para exponer ?
+11/7/2025 7:19 p. m. - +593 97 883 4901: Quién es el uno
+11/7/2025 7:19 p. m. - +593 97 883 4901: Dos
+11/7/2025 7:19 p. m. - +593 97 883 4901: Tres
+11/7/2025 7:19 p. m. - +593 97 883 4901: Y 4
+11/7/2025 7:19 p. m. - +593 97 883 4901: Yo soy 5
+11/7/2025 7:19 p. m. - Veronica Yampueza: soy 4
+11/7/2025 7:19 p. m. - +593 97 883 4901: Digan amigos
+11/7/2025 7:19 p. m. - +593 98 786 9225: Pueden decirle que nos de 15 minutos por favor
+11/7/2025 7:19 p. m. - +593 97 883 4901: ‎STK-20250711-WA0022.webp (archivo adjunto)
+11/7/2025 7:19 p. m. - Veronica Yampueza: somos 5 han enviado 2 video
+11/7/2025 7:19 p. m. - Veronica Yampueza: debian ya haber dejado en el canva el video cargado
+11/7/2025 7:20 p. m. - +593 97 883 4901: Quién es el uno
+11/7/2025 7:20 p. m. - +593 97 883 4901: ‎STK-20211111-WA0006.webp (archivo adjunto)
+11/7/2025 7:20 p. m. - +593 97 883 4901: El uno
+11/7/2025 7:20 p. m. - +593 97 883 4901: Dónde está mi
+11/7/2025 7:20 p. m. - +593 97 883 4901: ‎STK-20250516-WA0023.webp (archivo adjunto)
+11/7/2025 7:21 p. m. - +593 97 883 4901: El dos y el tres amigos por favor
+11/7/2025 7:21 p. m. - Veronica Yampueza: porfacor confirmen el orden
+11/7/2025 7:21 p. m. - +593 97 883 4901: Si @207867843993621 @28458688184342 @113073637601391 @64055293300940
+11/7/2025 7:21 p. m. - +593 97 883 4901: Confirmen
+11/7/2025 7:22 p. m. - Verito : 3 soy yo compañera
+11/7/2025 7:23 p. m. - +593 97 883 4901: El grupo 1
+11/7/2025 7:23 p. m. - +593 97 883 4901: El 1
+11/7/2025 7:23 p. m. - +593 97 883 4901: Dónde está
+11/7/2025 7:24 p. m. - Veronica Yampueza: el 1 creo que esJavier <Se editó este mensaje.>
+11/7/2025 7:24 p. m. - +593 98 786 9225: Ya estoy llegando porfa
+11/7/2025 7:24 p. m. - Veronica Yampueza: Mateo Viracucha segun el video creoque es el 2
+11/7/2025 7:24 p. m. - Veronica Yampueza: la compañera que envio el video 3
+11/7/2025 7:24 p. m. - Veronica Yampueza: yo 4
+11/7/2025 7:24 p. m. - Veronica Yampueza: y ud compañera 5
+11/7/2025 7:25 p. m. - +593 97 883 4901: Solo hay dos videos
+11/7/2025 7:25 p. m. - +593 97 883 4901: A ya listo
+11/7/2025 7:25 p. m. - +593 97 883 4901: ‎STK-20250711-WA0023.webp (archivo adjunto)
+11/7/2025 7:57 p. m. - +593 97 883 4901: ‎STK-20211111-WA0006.webp (archivo adjunto)
+11/7/2025 7:57 p. m. - +593 97 883 4901: Fallamos
+11/7/2025 7:57 p. m. - +593 98 295 3878: Por :'c ??
+11/7/2025 7:57 p. m. - Veronica Yampueza: ‎STK-20240404-WA0084.webp (archivo adjunto)
+11/7/2025 7:57 p. m. - +593 97 883 4901: Perdón me olvidé
+11/7/2025 7:57 p. m. - +593 98 786 9225: Los audios de los videos estaban muy bajos
+11/7/2025 7:57 p. m. - +593 98 786 9225: Eso también
+11/7/2025 7:57 p. m. - Veronica Yampueza: Siii casi no se escuchaban las grabaciones
+11/7/2025 7:58 p. m. - +593 97 883 4901: Lo que iba a decir y no encontraba mi presentación y me puse nerviosa
+27/7/2025 3:31 p. m. - +593 98 295 3878: Buenas tardes compañeros
+27/7/2025 3:31 p. m. - +593 98 295 3878: Una consulta
+27/7/2025 3:32 p. m. - +593 98 295 3878: Tal vez el inge de ASO ha mandado alguna actividad ?
+27/7/2025 3:32 p. m. - +593 98 295 3878: De las que son en grupo como los labs ?
+27/7/2025 5:11 p. m. - Verito : No, en la plataforma no hay nadaa
+27/7/2025 5:55 p. m. - +593 98 295 3878: Pero en clases había dicho algo
+27/7/2025 5:55 p. m. - +593 98 295 3878: Cuando los compañeros hacían la parte práctica
+29/7/2025 8:11 p. m. - +593 98 295 3878: Hola compañeros
+29/7/2025 8:11 p. m. - +593 98 295 3878: Como nos dividimos para el lab y el proyecto
+30/7/2025 5:35 p. m. - Verito : Buenas tardes compañeros yo puedoo hacer del proeyecto el punto 3 y del laboratorio el punto 1 para ya ir avanzando <Se editó este mensaje.>
+31/7/2025 10:09 a. m. - +593 98 295 3878: Hola compañeros
+31/7/2025 10:09 a. m. - +593 98 295 3878: Hoy a las 9 para reunirnos
+31/7/2025 10:09 a. m. - +593 98 295 3878: Y ver los del lab y del proyecto
+31/7/2025 10:09 a. m. - +593 98 295 3878: Por favor para que estemos todos
+31/7/2025 10:14 a. m. - Veronica Yampueza: Buenas noches compañeros
+31/7/2025 10:14 a. m. - Veronica Yampueza: si claro no hay problema puede ser 9:30
+31/7/2025 10:15 a. m. - +593 98 295 3878: Listo 9:30 porfa
+31/7/2025 9:10 p. m. - +593 98 295 3878: Buenas noches compañeros
+31/7/2025 9:10 p. m. - +593 98 295 3878: en 20 minutos envió el link por favor
+31/7/2025 9:27 p. m. - Veronica Yampueza: ok gracias
+31/7/2025 9:31 p. m. - +593 98 295 3878: https://meet.google.com/jyp-ouwh-myf
+31/7/2025 9:31 p. m. - +593 98 295 3878: Listo compañeros
+31/7/2025 9:52 p. m. - +593 98 295 3878: Alex_PRY
+Cata_LAB
+VeroC_INF
+VeroJ_LAB
+Mateo_PRY
+31/7/2025 9:58 p. m. - +593 97 883 4901: manda+
+31/7/2025 9:58 p. m. - +593 97 883 4901: el link
+31/7/2025 9:58 p. m. - +593 98 295 3878: https://meet.google.com/jyp-ouwh-myf
+31/7/2025 10:23 p. m. - +593 98 295 3878: https://putty.softonic.com/
+31/7/2025 10:45 p. m. - +593 98 786 9225: a las 9:30
+31/7/2025 10:46 p. m. - +593 98 786 9225: el micro de mi compu se daño jjjj
+31/7/2025 10:46 p. m. - +593 98 786 9225: pero a las 9:30 en adelante
+31/7/2025 10:46 p. m. - +593 98 295 3878: De una compa
+2/8/2025 9:09 p. m. - +593 98 295 3878: Hola compañeros
+2/8/2025 9:09 p. m. - +593 98 295 3878: una consulta
+2/8/2025 9:09 p. m. - +593 98 295 3878: Tal vez alguien tiene ya instaladas las maquinas vistuales con el Esxi host ?
+2/8/2025 9:10 p. m. - +593 98 295 3878: lo que pasa es que yo tengo conflictos en mi maquina no me deja instalar nada
+2/8/2025 9:10 p. m. - +593 98 295 3878: y Javier de igual manera de la un error al inicializar :c
+2/8/2025 9:38 p. m. - Verito : La verdad no, mi computadora es muy básica no me deja descargar cosas pesadas se me sabe como trabar
+2/8/2025 9:39 p. m. - +593 98 295 3878: vaina :c
+y ahora no tenemos en que hacer el proyecto :c
+2/8/2025 9:40 p. m. - +593 98 786 9225: La falla, de todas maneras aquí ando intentando hacer todo para inicializar
+2/8/2025 10:59 p. m. - +593 97 883 4901: Mmm ya me logré
+2/8/2025 10:59 p. m. - +593 97 883 4901: Conectar
+2/8/2025 10:59 p. m. - +593 97 883 4901: <Multimedia omitido>
+2/8/2025 11:00 p. m. - +593 97 883 4901: Y no sé qué más hacer
+2/8/2025 11:00 p. m. - +593 97 883 4901: ‎STK-20250425-WA0062.was (archivo adjunto)
+2/8/2025 11:00 p. m. - +593 97 883 4901: Por qué me pelie con mi novio y me quedé ahí
+2/8/2025 11:00 p. m. - +593 97 883 4901: ‎STK-20250802-WA0065.webp (archivo adjunto)
+2/8/2025 11:17 p. m. - +593 97 883 4901: Ya estoy avanzando
+2/8/2025 11:17 p. m. - +593 97 883 4901: Verán que yo estoy haciendo el de azure
+2/8/2025 11:17 p. m. - +593 97 883 4901: <Multimedia omitido>
+2/8/2025 11:19 p. m. - Verito : Le estás tomando cap por si acaso?
+2/8/2025 11:19 p. m. - Verito : Lo que se estas avanzando
+2/8/2025 11:20 p. m. - +593 97 883 4901: ‎STK-20250802-WA0067.webp (archivo adjunto)
+2/8/2025 11:20 p. m. - +593 97 883 4901: Si dos
+3/8/2025 12:06 a. m. - +593 97 883 4901: Amigos yo era laboratorio
+3/8/2025 12:06 a. m. - +593 97 883 4901: ‎STK-20250612-WA0083.webp (archivo adjunto)
+3/8/2025 12:06 a. m. - +593 97 883 4901: ‎STK-20250425-WA0062.was (archivo adjunto)
+3/8/2025 12:06 a. m. - +593 97 883 4901: Recién ahorita me di cuenta ya
+3/8/2025 12:07 a. m. - +593 97 883 4901: Y estoy haciendo proyecto
+3/8/2025 12:07 a. m. - +593 97 883 4901: ‎STK-20250425-WA0062.was (archivo adjunto)
+3/8/2025 12:08 a. m. - +593 98 295 3878: El lab es de AZURE
+3/8/2025 12:08 a. m. - +593 98 295 3878: El pry de ESXi host
+3/8/2025 12:08 a. m. - +593 97 883 4901: Este estoy haciendo
+3/8/2025 12:08 a. m. - +593 97 883 4901: ‎STK-20250612-WA0083.webp (archivo adjunto)
+3/8/2025 12:08 a. m. - +593 97 883 4901: Cuán es la laboratorio
+3/8/2025 12:08 a. m. - +593 98 295 3878: Es el proyecto, tu debes hacer la virtualización con Docker
+3/8/2025 12:09 a. m. - +593 97 883 4901: O proyecto auxilio
+3/8/2025 12:09 a. m. - +593 98 295 3878: Subir las páginas
+3/8/2025 12:09 a. m. - +593 98 295 3878: A los servidores
+3/8/2025 12:09 a. m. - +593 98 295 3878: De Linux
+3/8/2025 12:09 a. m. - +593 98 295 3878: Y Windows server
+3/8/2025 12:11 a. m. - +593 97 883 4901: Vaaa
+3/8/2025 12:11 a. m. - +593 97 883 4901: Dale
+3/8/2025 12:11 a. m. - +593 97 883 4901: Soy laboratorio
+3/8/2025 12:11 a. m. - +593 98 295 3878: Yap
+3/8/2025 12:11 a. m. - +593 98 295 3878: Hay una forma de subir más fácil
+3/8/2025 12:11 a. m. - +593 98 295 3878: Sin docker
+3/8/2025 12:11 a. m. - +593 98 295 3878: Pero creo que especifica Docker
+3/8/2025 12:25 a. m. - +593 97 883 4901: <Multimedia omitido>
+Por medio de putty listo
+3/8/2025 12:26 a. m. - +593 98 295 3878: Vele si te pide Docker si no solo aumenta código y ya
+3/8/2025 12:26 a. m. - +593 98 295 3878: Para la documentación
+3/8/2025 12:26 a. m. - +593 98 295 3878: De usar el Docker
+3/8/2025 12:26 a. m. - +593 97 883 4901: Si pide
+3/8/2025 12:27 a. m. - +593 97 883 4901: Si pide y si he ocupado sí que espero acabar mañana noche
+3/8/2025 12:27 a. m. - +593 97 883 4901: ‎STK-20250802-WA0065.webp (archivo adjunto)
+3/8/2025 11:36 a. m. - +593 97 883 4901: Sus nombres chicos
+3/8/2025 11:36 a. m. - +593 97 883 4901: Ayudemen
+3/8/2025 11:36 a. m. - +593 97 883 4901: Por favor
+3/8/2025 11:36 a. m. - +593 97 883 4901: ‎STK-20250612-WA0083.webp (archivo adjunto)
+3/8/2025 11:37 a. m. - +593 98 786 9225: Alex Javier Canchignia Vasco
+3/8/2025 11:38 a. m. - +593 98 295 3878: Mateo David Viracucha Armijos
+3/8/2025 11:38 a. m. - Veronica Yampueza: Veronica Janeth Yampuezan Burbano
+3/8/2025 11:38 a. m. - +593 97 883 4901: Falta
+3/8/2025 11:38 a. m. - +593 97 883 4901: Uno
+3/8/2025 11:39 a. m. - +593 97 883 4901: Apuren
+3/8/2025 11:39 a. m. - +593 97 883 4901: ‎STK-20250612-WA0083.webp (archivo adjunto)
+3/8/2025 11:40 a. m. - Verito : Veronica Thalia Campoverde Maza
+3/8/2025 2:18 p. m. - +593 97 883 4901: Ya acabé
+3/8/2025 2:18 p. m. - +593 97 883 4901: De hacer
+3/8/2025 2:18 p. m. - +593 97 883 4901: ‎PTT-20250803-WA0016.opus (archivo adjunto)
+3/8/2025 2:24 p. m. - Verito : oseaaa se envia un informe con todos los pasos, el dia que toque defender hay que mostar lo que el nos pidaa depende el objectivo del dber
+3/8/2025 2:38 p. m. - +593 98 295 3878: ‎PTT-20250803-WA0017.opus (archivo adjunto)
+3/8/2025 2:40 p. m. - +593 97 883 4901: ‎STK-20250612-WA0083.webp (archivo adjunto)
+3/8/2025 2:41 p. m. - Verito : Si así mismo es
+3/8/2025 7:21 p. m. - +593 97 883 4901: ‎laboratorio final sistemas operativos.zip (archivo adjunto)
+laboratorio final sistemas operativos.zip
+3/8/2025 7:21 p. m. - +593 97 883 4901: envio las imagenes para que hagan el informe
+5/8/2025 7:28 p. m. - +593 97 883 4901: Amigos
+5/8/2025 7:28 p. m. - +593 97 883 4901: Como vamos con esos informes
+5/8/2025 7:28 p. m. - +593 97 883 4901: Cómo se presenta el viernes
+5/8/2025 7:28 p. m. - +593 97 883 4901: Que hay que hacer o como
+5/8/2025 7:28 p. m. - +593 97 883 4901: ‎STK-20250612-WA0083.webp (archivo adjunto)
+5/8/2025 7:30 p. m. - Verito : ya he empezar hacer mañana por favooor el del laboratorio
+5/8/2025 7:31 p. m. - Verito : y el proyecto no si la compañera Veronica Yampuenza te ayudo en el laboratorio quedoo ella también
+5/8/2025 7:33 p. m. - +593 98 295 3878: El proyecto esta hecho pedazos :c <Se editó este mensaje.>
+5/8/2025 7:33 p. m. - +593 97 883 4901: Por qué
+5/8/2025 7:33 p. m. - +593 97 883 4901: Lo que hice
+5/8/2025 7:33 p. m. - +593 97 883 4901: ‎STK-20250802-WA0067.webp (archivo adjunto)
+5/8/2025 7:33 p. m. - +593 98 295 3878: jaja era proyecto
+5/8/2025 7:33 p. m. - +593 98 295 3878: sorry
+5/8/2025 7:33 p. m. - +593 97 883 4901: ‎STK-20250805-WA0052.webp (archivo adjunto)
+5/8/2025 7:33 p. m. - +593 98 295 3878: esta complicadito :c
+5/8/2025 7:33 p. m. - +593 97 883 4901: Uuuu
+5/8/2025 7:33 p. m. - +593 98 295 3878: full tutoriales de yotube :c
+5/8/2025 7:37 p. m. - +593 98 786 9225: Si está full complicado
+7/8/2025 8:29 p. m. - +593 97 883 4901: Hola amigos
+7/8/2025 8:29 p. m. - +593 97 883 4901: Como exponemos mañana
+7/8/2025 8:29 p. m. - +593 97 883 4901: Cómo quedó el informe
+7/8/2025 8:29 p. m. - +593 97 883 4901: Cómo se sube o que hay que hacer
+7/8/2025 8:29 p. m. - +593 97 883 4901: ‎STK-20250807-WA0079.webp (archivo adjunto)
+7/8/2025 8:31 p. m. - Verito : No se expone mñana si no el miércoles
+7/8/2025 8:31 p. m. - Verito : El informe ya lo estoy cuando acabe lo envío
+7/8/2025 8:31 p. m. - Verito : Para que revisen
+7/8/2025 8:31 p. m. - +593 98 295 3878: Creo que hasta hoy podemos subir el informe
+7/8/2025 8:32 p. m. - Verito : Es hstaa mñnaaaaa
+7/8/2025 8:32 p. m. - +593 98 295 3878: Otodo es el miércoles ?
+7/8/2025 8:32 p. m. - +593 98 786 9225: No hagas asustar
+7/8/2025 8:32 p. m. - +593 98 295 3878: Aaaaaah
+7/8/2025 8:32 p. m. - Verito : El informe 6pm <Se editó este mensaje.>
+7/8/2025 8:32 p. m. - +593 98 295 3878: ‎STK-20250807-WA0081.webp (archivo adjunto)
+7/8/2025 8:32 p. m. - Veronica Yampueza: Laboratorio: Viernes, 08 de agosto. Entrega a plataforma: 18:00H
+Defensa: Miércoles 13, de 12:00H a 14:00H
+
+Proyecto: Miercoles, 13 de agosto de 12:00H a 14:00H LA DEFENSA Y SUBIDA A PLATAFORMA
+7/8/2025 8:32 p. m. - +593 98 295 3878: ‎STK-20250807-WA0082.webp (archivo adjunto)
+7/8/2025 8:32 p. m. - Verito : La comandante mismo dice
+7/8/2025 10:45 p. m. - Verito : Buenas ncohes compañeros
+7/8/2025 10:45 p. m. - Verito : envió el link para que puedan visualizar el informe y agregar su firma por favor
+7/8/2025 10:45 p. m. - Verito : https://docs.google.com/document/d/1XsqxglmxG8FtaEQpCR-eQ51nrGYinTjr_JdEBx0g4d8/edit?usp=sharing
+7/8/2025 10:46 p. m. - Verito : y si necesitan hacer algún cambio para que le editen nomas
+7/8/2025 11:21 p. m. - +593 98 786 9225: Muchas gracias compañera
+8/8/2025 4:09 p. m. - Verito : Vemos a enviar la actividad o no?
+8/8/2025 4:10 p. m. - Verito : Solo veo que uno ha firmado
+8/8/2025 4:10 p. m. - Verito : Verán que tenemos 6pm enviar
+8/8/2025 4:10 p. m. - +593 97 883 4901: Si envíe
+8/8/2025 4:10 p. m. - +593 97 883 4901: ‎STK-20250808-WA0032.webp (archivo adjunto)
+8/8/2025 4:10 p. m. - +593 97 883 4901: No sé cómo hay que exponer
+8/8/2025 4:10 p. m. - +593 97 883 4901: ‎STK-20250522-WA0010.webp (archivo adjunto)
+8/8/2025 4:10 p. m. - +593 98 295 3878: Es obligatorio firmar ?
+8/8/2025 4:11 p. m. - +593 97 883 4901: ‎STK-20250808-WA0033.webp (archivo adjunto)
+8/8/2025 4:11 p. m. - +593 98 786 9225: Es como prueba de tu participación creo bro
+8/8/2025 4:12 p. m. - +593 97 883 4901: ‎STK-20250802-WA0067.webp (archivo adjunto)
+8/8/2025 4:12 p. m. - +593 97 883 4901: Queeee
+8/8/2025 4:12 p. m. - +593 97 883 4901: Ya pongo mi firma
+
